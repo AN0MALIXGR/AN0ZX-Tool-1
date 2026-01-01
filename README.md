@@ -8,7 +8,7 @@ last Tools premium
       
       
       *HOW TO IN TERMUX*
-    $. git clone https://github.com/AN0MALIXGR/AN0ZX-Tool-1
+    $. git clone https://github.com/AN0MALIXGR/AN0ZX-Tool-1.git
     $. cd AN0ZX-Tool-1
     $. ls
     $. chmod +x premium.sh
